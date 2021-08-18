@@ -30,14 +30,14 @@
 - 사이트: https://syntax-note.github.io/
 - 소스코드: https://github.com/syntax-note/syntax-note.github.io
 
-#### Halto Map (2020)
+#### 할투맵 (2020)
 <img src="https://raw.githubusercontent.com/hal-to/hal-to.github.io/main/haltomap.jpg" height="200">
 
 - 유튜브 채널 "할수있다 알고투자"의 영상들이 정리된 구글 시트를 보여주는 웹앱
 - 사이트: https://hal-to.github.io/
 - 소스코드: https://github.com/hal-to/hal-to.github.io
 
-#### BigVoca Watch (2017)
+#### My BigVoca Watch (2017)
 <img src="https://raw.githubusercontent.com/mechurak/BigVocaWatchNative/master/bigvoca.jpg" height="200">
 
 - Galaxy Watch/Gear용 워치페이스

@@ -26,7 +26,7 @@
 #### Syntax Compare (2021)
 
 - 언어별 기본 문법을 참고하기 위한 정리 사이트
-- 사이트: https://syntax-note.github.io/
+- 사이트: https://syntax-compare.github.io/
 - 소스코드: https://github.com/mechurak/syntax-compare
 
 #### 할투맵 (2020)

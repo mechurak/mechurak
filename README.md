@@ -23,12 +23,11 @@
 - 가이드 페이지: https://ellas-notes.github.io/
 - 소스코드: https://github.com/mechurak/ellas-notes
 
-#### Syntax Note (2021)
-<img src="https://raw.githubusercontent.com/syntax-note/syntax-note.github.io/main/syntax_note.jpg" height="200">
+#### Syntax Compare (2021)
 
-- 언어별 기본 문법을 참고하기 위한 웹앱
+- 언어별 기본 문법을 참고하기 위한 정리 사이트
 - 사이트: https://syntax-note.github.io/
-- 소스코드: https://github.com/syntax-note/syntax-note.github.io
+- 소스코드: https://github.com/mechurak/syntax-compare
 
 #### 할투맵 (2020)
 <img src="https://raw.githubusercontent.com/hal-to/hal-to.github.io/main/haltomap.jpg" height="200">
